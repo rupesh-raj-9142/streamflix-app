@@ -4,7 +4,7 @@ function Navbar() {
       <div className="navbar__brand">
         <div className="navbar__badge">🎬</div>
         <div>
-          <p className="navbar__eyebrow">Movie Discovery</p>
+          <p className="navbar__eyebrow">StreamFlix</p>
           <h1 className="navbar__title">Search with OMDB</h1>
         </div>
       </div>
